@@ -1,7 +1,7 @@
 # Cepofis - Emlak Yönetim Sistemi
 
 <div align="center">
-  <img src="assets/images/logo.png" alt="Cepofis Logo" width="200"/>
+  <img src="cepofis/assets/images/logo.png" alt="Cepofis Logo" width="200"/>
 </div>
 
 ## 📱 Proje Hakkında
@@ -30,16 +30,16 @@ Cepofis, emlak ofisleri için geliştirilmiş bir portföy, müşteri ve randevu
 ## 📸 Ekran Görüntüleri
 <div align="center">
   <h3>Ana Sayfa</h3>
-  <img src="screenshots/home.png" alt="Ana Sayfa" width="200"/>
+  <img src="screenshots/screenshot_home.png" alt="Ana Sayfa" width="200"/>
   
   <h3>Portföy Listesi</h3>
-  <img src="screenshots/portfolio_list.png" alt="Portföy Listesi" width="200"/>
+  <img src="screenshots/screenshot-portfolio.png" alt="Portföy Listesi" width="200"/>
   
   <h3>Müşteri Listesi</h3>
-  <img src="screenshots/client_list.png" alt="Müşteri Listesi" width="200"/>
+  <img src="screenshots/screenshot-clients.png" alt="Müşteri Listesi" width="200"/>
   
   <h3>Randevu Listesi</h3>
-  <img src="screenshots/appointment_list.png" alt="Randevu Listesi" width="200"/>
+  <img src="screenshots/screenshot-appointments.png" alt="Randevu Listesi" width="200"/>
 </div>
 
 ## 🚀 Kurulum
